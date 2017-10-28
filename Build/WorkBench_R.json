@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WorkBench_R.data.unityweb",
+"asmCodeUrl": "WorkBench_R.asm.code.unityweb",
+"asmMemoryUrl": "WorkBench_R.asm.memory.unityweb",
+"asmFrameworkUrl": "WorkBench_R.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
